@@ -1,5 +1,5 @@
 # WebDevelopmentProject
-Welcome to the GitHub repository for our hostel website development project.
+Welcome to the GitHub repository for my hostel website development project.<br>
 This is my first front-end web development project done as a part of my academics. It is a hostel website that serves as an online platform to showcase their accommodations, services, and amenities to potential guests.
 <h2>OVERALL VIEW OF THE PROJECT IN TERMS OF IMPLEMENTATION<br>
 HOSTEL SERVICES WEB PAGE
